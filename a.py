@@ -9,7 +9,7 @@ start_day = 1
 end_day = 30
 
 for day in range(start_day, end_day + 1):
-    folder_name = f"Day_{day}"
+    folder_name = f"{day}_Day_Chart"
     folder_path = base_dir / folder_name
     
     # Create the folder if it doesn't exist
