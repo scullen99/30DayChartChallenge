@@ -1,0 +1,98 @@
+---
+title: "Day 3"
+author: "Sergio Esteban Tarrero"
+date: "2024-04-04"
+output: html_document
+---
+
+# Fuente:
+https://www.kaggle.com/datasets/isaacwen/github-programming-languages-data?select=repos.csv
+
+```{r setup, include=FALSE}
+library(ggplot2)
+library(dplyr)
+```
+
+```{r}
+data <- read.csv("C:/Users/Sergio/Desktop/30DayChartChallenge/3_Day_Chart/repos.csv")
+```
+
+```{r}
+data
+```
+
+# Ordenación de mayor a menor
+```{r}
+data <- data %>%
+  arrange(desc(num_repos))
+```
+
+# Crear el gráfico de barras horizontal
+```{r}
+
+ggplot(data, aes(x = reorder(language, num_repos), y = num_repos)) +
+  geom_bar(stat = "identity") +
+  coord_flip() + 
+  theme_minimal() +
+  labs(title = "Número de Repositorios de GitHub por Lenguaje",
+       x = "Lenguaje",
+       y = "Número de Repositorios")
+```
+
+# Ordenar los datos de mayor a menor según el número de repositorios y quedarse con los primeros 10
+
+```{r}
+format_thousands <- function(x) {
+  ifelse(x %% 1000 == 0,
+         paste0(formatC(x / 1000, format = "f", digits = 0), "k"),
+         paste0(formatC(x / 1000, format = "f", digits = 1), "k"))
+}
+```
+
+```{r}
+data_top10 <- data %>%
+  arrange(desc(num_repos)) %>%
+  slice(1:10)
+
+```
+
+```{r}
+palabras_reservadas <- c("JavaScript" = "class", 
+                         "CSS" = "center div?", 
+                         "HTML" = "<html>, <head>", 
+                         "Shell" = "shell-script, Unix", 
+                         "Python" = "Lambda, Pass", 
+                         "Ruby" = "alias, def", 
+                         "Java" = "class, public", 
+                         "PHP" = "clone, const", 
+                         "C" = "else, long", 
+                         "C++" = "Class, cin, cout")
+```
+
+# Crear el gráfico de barras horizontal con los 10 lenguajes más populares
+```{r}
+day3 <- ggplot(data_top10, aes(x = reorder(language, num_repos), y = num_repos, fill = language)) +
+  geom_bar(stat = "identity") +
+  scale_y_continuous(labels = format_thousands) +
+  coord_flip() +
+  #theme_minimal() +
+  scale_fill_viridis_d() +
+  theme(legend.position = "none") +
+  geom_text(aes(y = num_repos, label = palabras_reservadas), position = position_nudge(x = -0.0), hjust = -0.05, size = 4, color = "black") +
+  labs(title = "Top 10 Programming Languages by Number of Repositories on GitHub",
+       x = "Language",
+       y = "Number of Repositories",
+       caption = "Source: Kaggle\n\nAuthor: Sergio Esteban Tarrero")
+
+day3
+```
+
+
+
+```{r}
+ggsave("SergioEstebanTarreroDay3.png", plot = day3, width = 10, height = 8, dpi = 300)
+```
+
+
+
+
