@@ -45,4 +45,4 @@ ggplot(final_counts, aes(x = "", y = count, fill = grouped_genre)) +
     fill = "Genres"
   )
 
-ggsave("SergioEstebanTarreroDay8.png", width = 10, height = 8)
+ggsave("SergioEstebanTarreroDay8.png", width = 10, height = 8, dpi = 300)
