@@ -43,7 +43,7 @@
 ## Day 13 - [Datawrapper link](https://www.datawrapper.de/_/E2Jko/)
 ![Sergio Esteban Tarrero Day 13 Chart](https://github.com/scullen99/30DayChartChallenge/blob/main/13_Day_Chart/SergioEstebanTarreroDay13.png) 
 
-## Day 14
+## Day 14 - [Datawrapper link](https://www.datawrapper.de/_/5uMWX/)
 ![Sergio Esteban Tarrero Day 14 Chart](https://github.com/scullen99/30DayChartChallenge/blob/main/14_Day_Chart/SergioEstebanTarreroDay14.png)
 
 ## Day 15
