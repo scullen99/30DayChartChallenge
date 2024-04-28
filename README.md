@@ -37,7 +37,7 @@
 ## Day 11
 ![Sergio Esteban Tarrero Day 11 Chart](https://github.com/scullen99/30DayChartChallenge/blob/main/11_Day_Chart/SergioEstebanTarreroDay11.png)
 
-## Day 12
+## Day 12 - Reuters Graphics (Theme Day) - [Datawrapper link](https://www.datawrapper.de/_/g85Tx/?v=3)
 ![Sergio Esteban Tarrero Day 12 Chart](https://github.com/scullen99/30DayChartChallenge/blob/main/12_Day_Chart/SergioEstebanTarreroDay12.png)
 
 ## Day 13 - [Datawrapper link](https://www.datawrapper.de/_/E2Jko/)
