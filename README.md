@@ -51,3 +51,18 @@
 
 ## Day 16 - [Datawapper link](https://www.datawrapper.de/_/Uov6v/)
 ![Sergio Esteban Tarrero Day 16 Chart](https://github.com/scullen99/30DayChartChallenge/blob/main/16_Day_Chart/SergioEstebanTarreroDay16.png)
+
+## Day 17
+![Sergio Esteban Tarrero Day 17 Chart](https://github.com/scullen99/30DayChartChallenge/blob/main/17_Day_Chart/SergioEstebanTarreroDay17.png)
+
+## Day 18
+![Sergio Esteban Tarrero Day 18 Chart](https://github.com/scullen99/30DayChartChallenge/blob/main/18_Day_Chart/SergioEstebanTarreroDay18.png)
+
+## Day 19
+![Sergio Esteban Tarrero Day 19 Chart](https://github.com/scullen99/30DayChartChallenge/blob/main/19_Day_Chart/SergioEstebanTarreroDay19.png)
+
+## Day 20
+![Sergio Esteban Tarrero Day 20 Chart](https://github.com/scullen99/30DayChartChallenge/blob/main/20_Day_Chart/SergioEstebanTarreroDay20.png)
+
+## Day 21
+![Sergio Esteban Tarrero Day 21 Chart](https://github.com/scullen99/30DayChartChallenge/blob/main/21_Day_Chart/SergioEstebanTarreroDay21.png)
