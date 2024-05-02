@@ -1,0 +1,9 @@
+﻿Grupo;A quién puede donar;De quién puede recibir
+A+;Puede donar a A+ y AB+;Puede recibir de A± y O±
+A-;Puede donar a A± y AB±;Puede recibir de A- y O-
+B+;Puede donar a B+ y AB+;Puede recibir de B± y O±
+B-;Puede donar a B± y AB±;Puede recibir de B- y O-
+AB+;Puede donar a AB+;Receptor universal
+AB-;Puede donar a AB±;Puede recibir de A-, B-, AB- y O-
+O+;Puede donar a A+, B+, AB+ y O+;Puede recibir de O±
+O-;Donante universal;Puede recibir de O-
