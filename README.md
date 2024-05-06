@@ -75,3 +75,21 @@
 
 ## Day 24
 ![Sergio Esteban Tarrero Day 24 Chart](https://github.com/scullen99/30DayChartChallenge/blob/main/24_Day_Chart/SergioEstebanTarreroDay24.png)
+
+## Day 25
+![Sergio Esteban Tarrero Day 25 Chart](https://github.com/scullen99/30DayChartChallenge/blob/main/25_Day_Chart/SergioEstebanTarreroDay25.png)
+
+## Day 26
+![Sergio Esteban Tarrero Day 26 Chart](https://github.com/scullen99/30DayChartChallenge/blob/main/26_Day_Chart/SergioEstebanTarreroDay26.png)
+
+## Day 27
+![Sergio Esteban Tarrero Day 27 Chart](https://github.com/scullen99/30DayChartChallenge/blob/main/27_Day_Chart/SergioEstebanTarreroDay27.png)
+
+## Day 28
+![Sergio Esteban Tarrero Day 28 Chart](https://github.com/scullen99/30DayChartChallenge/blob/main/28_Day_Chart/SergioEstebanTarreroDay28.png)
+
+## Day 29
+![Sergio Esteban Tarrero Day 29 Chart](https://github.com/scullen99/30DayChartChallenge/blob/main/29_Day_Chart/SergioEstebanTarreroDay29.png)
+
+## Day 30
+![Sergio Esteban Tarrero Day 30 Chart](https://github.com/scullen99/30DayChartChallenge/blob/main/30_Day_Chart/SergioEstebanTarreroDay30.png)
