@@ -73,7 +73,7 @@
 ## Day 23
 ![Sergio Esteban Tarrero Day 23 Chart](https://github.com/scullen99/30DayChartChallenge/blob/main/23_Day_Chart/SergioEstebanTarreroDay23.png)
 
-## Day 24
+## Day 24 - ILO Region of Africa (Data Day)
 ![Sergio Esteban Tarrero Day 24 Chart](https://github.com/scullen99/30DayChartChallenge/blob/main/24_Day_Chart/SergioEstebanTarreroDay24.png)
 
 ## Day 25
