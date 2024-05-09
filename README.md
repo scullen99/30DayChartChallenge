@@ -4,7 +4,7 @@
 ### 08MBID_10_B_2023-24_Visualización de Datos
 ### VIU
 
-## Day 1
+## [Day 1](https://github.com/scullen99/30DayChartChallenge/tree/main/1_Day_Chart)
 ![Sergio Esteban Tarrero Day 1 Chart](https://github.com/scullen99/30DayChartChallenge/blob/main/1_Day_Chart/SergioEstebanTarreroDay1.png)
 
 ## Day 2
