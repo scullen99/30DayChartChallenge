@@ -88,7 +88,7 @@
 ## Day 28
 ![Sergio Esteban Tarrero Day 28 Chart](https://github.com/scullen99/30DayChartChallenge/blob/main/28_Day_Chart/SergioEstebanTarreroDay28.png)
 
-## Day 29 [Datawrapper Link](https://www.datawrapper.de/_/wGF7Q/?v=2)
+## Day 29 - [Datawrapper Link](https://www.datawrapper.de/_/wGF7Q/?v=2)
 ![Sergio Esteban Tarrero Day 29 Chart](https://github.com/scullen99/30DayChartChallenge/blob/main/29_Day_Chart/SergioEstebanTarreroDay29.png)
 
 ## Day 30
