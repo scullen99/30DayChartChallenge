@@ -6,7 +6,7 @@
 
 ----
 
-# Wrapped Out - All Chart
+# **Wrapped Out** - All Charts
 ![Wrapped Out](https://github.com/scullen99/30DayChartChallenge/blob/main/SergioEstebanTarreroWrappedOut30DayChartChallenge2024.png)
 
 ----
