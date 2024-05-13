@@ -6,8 +6,8 @@
 
 ----
 
-# **Wrapped** - All Charts
-![Wrapped Out](https://github.com/scullen99/30DayChartChallenge/blob/main/SergioEstebanTarreroWrappedOut30DayChartChallenge2024.png)
+## **Wrapped** - All Charts
+![Wrapped Out](https://github.com/scullen99/30DayChartChallenge/blob/main/0_Day_Chart_Wrapped/SergioEstebanTarreroWrapped30DayChartChallenge2024.png)
 
 ----
 
